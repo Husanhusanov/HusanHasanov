@@ -1,0 +1,176 @@
+@media screen and
+(min-width: 368px) and
+(min-height: 770px) 
+{ 
+    .asosiy
+    {
+       @media screen {
+         flex-wrap: wrap;
+         (min-width: 380px)
+         (min-height: 770px)
+       }
+    }
+}
+.quti{
+    width: 700px;
+    height: 300px;
+    background-image: url(Abi\ Express\ boshi.jpg);
+    margin-left: 40px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.quti h1{
+    color: aliceblue;
+    font-size: 40px;
+    margin-left: 40px;
+    position: relative;
+    top: 190px;
+}
+.b1 button{
+    width: 80px;
+    height: 30px;
+    font-size: 18px;
+    margin-left: 2px;
+    color: black;
+    border-radius: 10px;
+}
+.b2 button{
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    font-size: 14px;
+    margin-left: 2px;
+}
+.b3 button{
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    margin-left: 2px;
+    text-align: center;
+    font-size: 10px;
+    color: aliceblue;
+}
+.b4 button{
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    margin-left: 2px;
+    text-align: center;
+    font-size: 10px;
+    color: black;
+}
+.bb{
+    display: flex;
+    gap: 3px;
+    position: relative;
+    top: -50px;
+    margin-left: 60px;
+}
+.dd{
+    display: flex;
+    gap: 3px;
+    margin-left: 42px;
+    color: white; 
+    position: relative;
+    top: -14px;  
+}
+.d1 button{
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    color: black;
+    font-size: 18px;
+}
+.d2 button{
+    width: 120px;
+    height: 40px; 
+    border-radius: 10px;
+    color: black; 
+    font-size: 18px;
+}
+.d3 input{
+    width: 690px;
+    height: 25px;
+    margin-left: 42px;
+    border-radius: 12px;
+}
+.ee{
+    display: flex;
+    gap: 4px;
+    margin-left: 42px;
+    margin-top: 10px;
+}
+.ee button{
+    color: black;
+    font-size: 16px;
+}
+.rr{
+    width: 200px;
+    height: 280px;
+    background-color: aquamarine;
+    margin-top: 10px;
+    margin-left: 42px;
+    border-radius: 10px;
+}
+.rr img{
+    width: 180px;
+    height: 140px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.rr h2{
+    font-size: 18px;
+    margin-left: 20px;
+    margin-top: 4px;
+}
+.rr button{
+    width: 180px;
+    height: 30px;
+   font-size: 20px;
+   margin-left: 10px;
+   border-radius: 12px;
+   position: relative;
+   top: 48px;
+}
+.er{
+    margin-top: 5px;
+    margin-left: 42px;
+}
+.tt{
+    display: flex;
+    gap: 1px;
+}
+.t1{
+    width: 200px;
+    height: 280px;
+    background-color: aquamarine;
+    margin-top: 10px;
+    margin-left: 42px;
+    border-radius: 10px;
+}
+.t1 img{
+    width: 180px;
+    height: 140px;
+    margin-left: 8px;
+    margin-top: 10px; 
+}
+.t1 h2{
+    font-size: 18px;
+    margin-left: 20px;
+    margin-top: 4px;
+}
+.t1 button{
+    width: 180px;
+    height: 30px;
+   font-size: 20px;
+   margin-left: 10px;
+   border-radius: 12px;
+   position: relative;
+   top: 48px;
+}
+.aa{
+    display: flex;
+}
+.sss{
+    display: flex;
+}
